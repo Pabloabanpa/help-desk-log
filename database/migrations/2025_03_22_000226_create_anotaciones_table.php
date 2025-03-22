@@ -24,3 +24,4 @@ class CreateAnotacionesTable extends Migration
         Schema::dropIfExists('anotaciones');
     }
 }
+
