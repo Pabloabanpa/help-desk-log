@@ -25,3 +25,4 @@ class CreateAtencionesTable extends Migration
         Schema::dropIfExists('atenciones');
     }
 }
+
